@@ -12,3 +12,6 @@ In addition, we also used ensemble methods such as random forest and gradient bo
 Talent Data Prep:
 Talent Data Prep is used for data preprocessing, including handling missing values and data cleaning.
 We applied transformation rules, standardized and normalized data to ensure data quality and analyzability.
+
+The data source is only one file, so Talent Data Integration was not used
+
